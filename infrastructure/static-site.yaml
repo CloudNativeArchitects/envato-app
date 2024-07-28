@@ -1,0 +1,7 @@
+# apiVersion: platform.envato.dev/v1alpha1
+# kind: StaticSite
+# metadata:
+#   name: domain-static-site
+#   namespace: envato
+# spec:
+#   region: "us-east-1"

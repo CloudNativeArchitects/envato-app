@@ -1,0 +1,9 @@
+# apiVersion: platform.envato.dev/v1alpha1
+# kind: BuildPipeline
+# metadata:
+#   name: domain-app-build
+#   namespace: envato
+# spec:
+#   repository: "us-east-1"
+#   registry: "some.ecr.repo"
+#   testPath: "/where/are/the/tests"
